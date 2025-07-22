@@ -1,4 +1,0 @@
-FPS = 60
-SC_WIDTH = 800
-SC_HEIGHT = 600
-GAME_TITLE = "My Game"
